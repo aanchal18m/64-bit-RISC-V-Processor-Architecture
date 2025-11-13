@@ -1,0 +1,39 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Mar  8 21:27:25 2025
+[*]
+[dumpfile] "/home/saarthak/asgn/4/ipaproj/src/out.vcd"
+[dumpfile_mtime] "Sat Mar  8 21:12:02 2025"
+[dumpfile_size] 66808
+[savefile] "/home/saarthak/asgn/4/ipaproj/src/out.gtkw"
+[timestart] 0
+[size] 1908 987
+[pos] -128 -289
+*-14.765472 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.uut.
+[treeopen] tb.uut.dec.
+[sst_width] 214
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 288
+@28
+tb.clk
+tb.rst
+@420
+tb.uut.pcOut[63:0]
+@23
+tb.uut.ix[31:0]
+@420
+tb.uut.dec.rgf1.ra1[4:0]
+tb.uut.dec.rgf1.rd1[63:0]
+tb.uut.dec.rgf1.ra2[4:0]
+tb.uut.dec.rgf1.rd2[63:0]
+tb.uut.dec.rgf1.wa[4:0]
+tb.uut.dec.rgf1.wd[63:0]
+@28
+tb.uut.stall
+tb.uut.fw.forwardA[1:0]
+tb.uut.fw.forwardB[1:0]
+[pattern_trace] 1
+[pattern_trace] 0
